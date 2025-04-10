@@ -1,8 +1,36 @@
 {
   "projectName": "בית-קפה-גמא-4472",
   "businessName": "בית קפה גמא",
-  "created": "2025-04-10T22:34:32.115Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו בית קפה מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-10T22:34:53.556Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-byt-kph-gma-1744324472063",
+  "formData": {
+    "businessName": "בית קפה גמא",
+    "businessType": "בית קפה",
+    "industry": "מזון",
+    "businessSize": "large",
+    "description": "אנחנו בית קפה מוביל בתחום הטכנולוגיה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#45B7D1",
+    "secondaryColor": "#D4A5A5",
+    "typographyStyle": "minimal",
+    "animationPreference": "minimal",
+    "headline": "בית קפה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "בית קפה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "בית קפה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
