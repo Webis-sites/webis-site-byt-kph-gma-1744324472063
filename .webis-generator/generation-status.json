@@ -1,11 +1,132 @@
 {
-  "timestamp": "2025-04-10T22:34:53.556Z",
+  "timestamp": "2025-04-10T22:35:38.121Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 20,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout wrapper with RTL support for Hebrew language"
+    },
+    {
+      "name": "Header",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized header with logo and navigation for the café"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Engaging hero section showcasing the café's ambiance with headline and CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "content",
+      "status": "pending",
+      "description": "About section highlighting the café's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Services section showcasing the café's offerings"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking system for café reservations"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials carousel showcasing positive experiences"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual gallery showcasing the café's ambiance and offerings"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Map and location information for the café"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Compelling call-to-action section encouraging bookings"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Comprehensive footer with contact information and social links"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable button component with various styles"
+    },
+    {
+      "name": "Card",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable card component for displaying content"
+    },
+    {
+      "name": "BookingForm",
+      "type": "form",
+      "status": "pending",
+      "description": "Reusable booking form component with validation"
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated page showcasing the café's menu offerings"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated page for the booking system"
+    },
+    {
+      "name": "ContactPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated contact page with form and information"
+    },
+    {
+      "name": "GalleryPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Expanded gallery page showcasing the café's ambiance and offerings"
+    },
+    {
+      "name": "SEOMetadata",
+      "type": "utility",
+      "status": "pending",
+      "description": "SEO metadata configuration for all pages"
+    },
+    {
+      "name": "AnimationProvider",
+      "type": "utility",
+      "status": "pending",
+      "description": "Animation context provider using Framer Motion"
+    }
+  ],
   "repoName": "webis-site-byt-kph-gma-1744324472063"
 }
